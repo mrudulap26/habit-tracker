@@ -22,10 +22,3 @@ For Android, make sure an emulator is running or a device is connected.
 For iOS, start an iOS Simulator or connect a physical device.
 
 Run the App: flutter run
-
-
-
-
-## Screenshot
-![Screens](https://user-images.githubusercontent.com/10445482/100530232-ea3b5a80-3221-11eb-8447-86bf6c0d3c26.png)
-
