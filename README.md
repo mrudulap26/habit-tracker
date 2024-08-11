@@ -1,41 +1,24 @@
-# Istiqomah
+Unzip the File: Extract the contents of the ZIP file.
 
-Istiqomah Application - A habit tracker App built with [Flutter](https://flutter.dev/)
+Install Required Software: Set up the necessary environment, likely involving Flutter since the file name contains "flutter."
+You can use Visual Studio Code, Android Studio, or IntelliJ IDEA for easier development.
+Install the Flutter and Dart plugins for your IDE.
 
-Set the Plan, Go Now, and Be Istiqomah
+Configure the Project
+Open the extracted project folder using your IDE (e.g., Visual Studio Code).
+Ensure that all dependencies are installed:
+Open a terminal in the project’s root directory: run- flutter pub get
+Check for Issues:Run: flutter doctor
 
-[![Google play store](https://user-images.githubusercontent.com/10445482/103167325-cf79f700-485c-11eb-84c1-8958c70bedf9.png)](https://play.google.com/store/apps/details?id=com.istiqomah)
+
+You can run the project on an Android/iOS simulator or a physical device.
+For Android, make sure an emulator is running or a device is connected.
+For iOS, start an iOS Simulator or connect a physical device.
+Run the App: flutter run
+
+
 
 
 ## Screenshot
 ![Screens](https://user-images.githubusercontent.com/10445482/100530232-ea3b5a80-3221-11eb-8447-86bf6c0d3c26.png)
 
-## Features
-
-1. Helping you achieve life resolution.
-2. Set the type of activity, with the reminder feature.
-3. Get a summary of the data during your Istiqomah journey.
-4. Offline Data
-
-## Contributing
-
-Istiqomah is an open source project. If you would like to contribute 
-to the project, you are very welcome. There are many ways to
-contribute, even if you are not a software developer.
-
-* **Report bugs, suggest features.** The easiest way to contribute is to simply
-  use the app and let us know if you find any problems or have any suggestions
-  to improve it. You can either use the link inside the app, or open an issue
-  at GitHub. 
-
-* **Spread the word.** If you like the app, share it with your family, friends
-  and colleagues. You can also rate and review the app on Google Play Store, to help
-  other users find it more easily.
-
-* **Write some code.** If you are an Flutter developer, you are very welcome to 
-  contribute with code.
-
-
-## License
-
-Istiqomah is under the [GNU General Public License v3.0](LICENSE)
